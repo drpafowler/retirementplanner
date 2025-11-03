@@ -67,9 +67,8 @@ Generated on: 2025-11-03
 
 ## Example screenshot
 
-Below is an example screenshot of the app. This is a placeholder SVG example included in the repository at `assets/screenshot.svg`.
+Below is an example screenshot of the app. 
 
-![Example projection screenshot](assets/screenshot.svg)
+![Example projection screenshot](assets/screenshot.png)
 
-Replace `assets/screenshot.svg` with a real screenshot (PNG/JPG) if you prefer — the README will display it the same way.
 
