@@ -65,3 +65,11 @@ The app will open in your browser. Use the left sidebar to change inputs.
 
 Generated on: 2025-11-03
 
+## Example screenshot
+
+Below is an example screenshot of the app. This is a placeholder SVG example included in the repository at `assets/screenshot.svg`.
+
+![Example projection screenshot](assets/screenshot.svg)
+
+Replace `assets/screenshot.svg` with a real screenshot (PNG/JPG) if you prefer — the README will display it the same way.
+
